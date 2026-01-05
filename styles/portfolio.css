@@ -72,10 +72,13 @@ nav .menu a{
     font-size: 85px;
     font-weight: bold;
     color: #181818;
+    margin-top: 5px;
+    margin-bottom: 20px;
 }
 #banner .banner-content p{
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
     color: #757575;
+    margin-bottom: 30px;
 }
